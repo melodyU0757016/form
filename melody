@@ -8,7 +8,7 @@
 
 
 <H1>FORM 2</H1>
-<form action="https://www.pinkoi.com "method="GET">
+<form action="https://www.pinkoi.com/browse? "method="GET">
 <select name="category">
 <option value="2">配件飾品</option>
 <option value="5">居家生活</option>
