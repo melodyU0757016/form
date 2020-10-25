@@ -1,14 +1,14 @@
 # form
 
 <H1>FORM 1</H1>
-<form action="https://www.pinkoi.com/browse? "method"GET">
+<form action="https://www.pinkoi.com "method"GET">
 <input type="text"name="category">
 <input type="submit"value="確定">
 </form>
 
 
 <H1>FORM 2</H1>
-<form action="https://www.pinkoi.com/browse? "method="GET">
+<form action="https://www.pinkoi.com "method="GET">
 <select name="category">
 <option value="2">配件飾品</option>
 <option value="5">居家生活</option>
@@ -22,7 +22,7 @@
 
 <H1>FORM 3</H1>
 
-<form action="https://www.pinkoi.com/browse?" method"GET">
+<form action="https://www.pinkoi.com" method"GET">
 <input type="text"name="cat"value="">
 <input type="submit"value="搜尋Pinkoi">
 </form>
