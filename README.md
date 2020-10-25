@@ -38,7 +38,7 @@
 </form>
 
 <br>
-<h1>form5</h1>
+<h1>HTML5</h1>
 
 <form action=""
 method="get">
